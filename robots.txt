@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vigilantcrime.github.io/zaydoon-kablawi/sitemap.xml
